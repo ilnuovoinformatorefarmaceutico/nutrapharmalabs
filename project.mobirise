@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "taskforce1",
+    "name": "nutrapharmalabs",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -25,7 +25,7 @@
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": []
     },
@@ -36,7 +36,9 @@
     "noImageResize": "",
     "uniqCompNum": 28,
     "versionPublish": "4.9.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": "",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
